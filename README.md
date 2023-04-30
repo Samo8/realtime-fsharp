@@ -1,0 +1,1 @@
+F# client library to communicate with Supabase realtime

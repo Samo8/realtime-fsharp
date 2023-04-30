@@ -1,0 +1,29 @@
+# Realtime
+src/Realtime/bin
+src/Realtime/obj
+src/Realtime/.idea
+src/Realtime/*.DotSettings.user
+
+# RealtimeExample
+src/RealtimeExample/bin
+src/RealtimeExample/obj
+src/RealtimeExample/.idea
+src/RealtimeExample/*.DotSettings.user
+
+# vscode
+.vscode
+
+# idea
+.idea
+
+# .ionide
+.ionide
+.fake
+
+# MacOS
+.DS_Store
+
+#docs
+.fsdocs
+
+*.DotSettings.user
